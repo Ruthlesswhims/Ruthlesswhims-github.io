@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rufus, Horrible Cop, Launches Site"
+title: "Rufus, tentatively, Launches Site"
 date: 2017-08-31
 ---
 
